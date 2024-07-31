@@ -29,7 +29,7 @@ global.NamaOwner = 'YUNGTEE' //gausah diganti
 global.sessionName = 'spidersession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = 'LATISHA' //ganti aj klo mau
-global.author = 'YUNGTEE //ganti aj klo mau
+global.author = 'YUNGTEE' //ganti aj klo mau
 global.packname = '𝚂𝚙𝚒𝚍𝚎𝚛 𝙱𝚘𝚝' //ganti aj klo mau
 global.yt = 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk' //gausah diganti
 
